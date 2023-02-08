@@ -15,3 +15,5 @@ echo "new AttendanceReport_.AttendanceReport($teacherNames).loadFromGoogleMeet()
 
 xclip -selection clipboard ${SCRIPTPATH}/dist/js/commandForConsole.js
 
+rm -rf ${SCRIPTPATH}/dist/js/commandForConsole.js
+
