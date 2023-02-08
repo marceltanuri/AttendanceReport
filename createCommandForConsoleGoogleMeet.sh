@@ -7,7 +7,9 @@ echo $SCRIPTPATH
 
 teacherNames=$1
 
+cd $SCRIPTPATH
 gulp runWebpack
+cd -
 
 cp ${SCRIPTPATH}/dist/js/main.js ${SCRIPTPATH}/dist/js/commandForConsole.js
 
