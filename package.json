@@ -1,5 +1,5 @@
 {
-  "name": "attendancereport",
+  "name": "attendance-report",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,16 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-clean": "^0.4.0",
-    "gulp-cli": "^2.3.0",
-    "gulp-replace": "^1.1.4",
-    "minify": "^9.2.0",
-    "webpack": "^5.75.0"
-  },
-  "devDependencies": {
-    "gulp-minify": "^3.1.0"
-  }
+  "license": "ISC"
 }
