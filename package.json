@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "marcel.tanuri@gmail.com",
-  "homepage": "https://github.com/marceltanuri/AttendanceReport",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marceltanuri/AttendanceReport"
+  },
   "license": "ISC"
 }
